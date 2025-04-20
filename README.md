@@ -15,7 +15,7 @@
 
 Interact with Gemini directly from your command line, leveraging its capabilities for coding help, system tasks, text generation, and more, enhanced with local tool integrations and a user-friendly interface.
 
-[Watch the Demo Video](demo.mov)
+[Watch the Demo Video](demo.gif)
 
 ## ✨ Key Features
 
